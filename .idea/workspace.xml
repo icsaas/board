@@ -56,24 +56,24 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30100334" vertical-offset="2608" max-vertical-offset="2907">
-              <caret line="142" column="56" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.401487" vertical-offset="2153" max-vertical-offset="2869">
+              <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
               <folding>
                 <element signature="e#22#47#0" expanded="true" />
-                <marker date="1428253440748" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
-                <marker date="1428253440748" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
-                <marker date="1428253440748" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
-                <marker date="1428253440748" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
-                <marker date="1428253440748" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
-                <marker date="1428253440748" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
-                <marker date="1428253440748" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
-                <marker date="1428253440748" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
+                <marker date="1428253556393" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
+                <marker date="1428253556393" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
+                <marker date="1428253556393" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
+                <marker date="1428253556393" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
+                <marker date="1428253556393" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
+                <marker date="1428253556393" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
+                <marker date="1428253556393" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
               </folding>
             </state>
           </provider>
@@ -687,20 +687,20 @@
           <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="e#22#47#0" expanded="true" />
-            <marker date="1428253440748" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
-            <marker date="1428253440748" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
-            <marker date="1428253440748" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
+            <marker date="1428253556393" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
+            <marker date="1428253556393" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
           </folding>
         </state>
       </provider>
@@ -769,20 +769,20 @@
           <caret line="68" column="62" selection-start-line="68" selection-start-column="62" selection-end-line="68" selection-end-column="62" />
           <folding>
             <element signature="e#22#47#0" expanded="true" />
-            <marker date="1428253440748" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
-            <marker date="1428253440748" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
-            <marker date="1428253440748" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
+            <marker date="1428253556393" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
+            <marker date="1428253556393" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
           </folding>
         </state>
       </provider>
@@ -861,20 +861,20 @@
           <caret line="68" column="62" selection-start-line="68" selection-start-column="62" selection-end-line="68" selection-end-column="62" />
           <folding>
             <element signature="e#22#47#0" expanded="true" />
-            <marker date="1428253440748" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
-            <marker date="1428253440748" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
-            <marker date="1428253440748" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
+            <marker date="1428253556393" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
+            <marker date="1428253556393" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
           </folding>
         </state>
       </provider>
@@ -1111,24 +1111,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30100334" vertical-offset="2608" max-vertical-offset="2907">
-          <caret line="142" column="56" selection-start-line="142" selection-start-column="56" selection-end-line="142" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.401487" vertical-offset="2153" max-vertical-offset="2869">
+          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
           <folding>
             <element signature="e#22#47#0" expanded="true" />
-            <marker date="1428253440748" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
-            <marker date="1428253440748" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
-            <marker date="1428253440748" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
-            <marker date="1428253440748" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
-            <marker date="1428253440748" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="41:74" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="215:248" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="289:319" placeholder="UPDATE entri..." />
+            <marker date="1428253556393" expanded="true" signature="655:690" placeholder="SELECT * FRO..entries..." />
+            <marker date="1428253556393" expanded="true" signature="803:862" placeholder="INSERT INTO ..." />
+            <marker date="1428253556393" expanded="true" signature="1646:1682" placeholder="SELECT * FRO..authors..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1974" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1977" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:1978" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="1940:2003" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2362" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2363" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2366" placeholder="select * fro..rank..." />
+            <marker date="1428253556393" expanded="true" signature="2328:2379" placeholder="select * fro..rank..." />
           </folding>
         </state>
       </provider>

@@ -77,7 +77,6 @@ class ServiceHandler(tornado.web.RequestHandler):
     def post(self, *args, **kwargs):
         currtoday=datetime.date.today()
         query="select * from rank where currdate='%s'" % currtoday
-        print query
         def callback(future):
             self.write(future.result())
             self.finish()
@@ -110,7 +109,6 @@ class DataTablesServer:
                                       'besttime':'最好成绩提交日'},
                              inplace=True)
             df_sqlite['最好成绩提交日']=df_sqlite['最好成绩提交日'].apply(lambda x: x.strftime('%Y-%m-%d'))
-            print df_sqlite['最好成绩提交日']
             datalist=df_sqlite.T.to_dict().values()
             if len(datalist) == 0:
                 return "no data"
