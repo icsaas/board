@@ -1,5 +1,4 @@
 #-*- coding:utf-8 -*-
-import bcrypt
 import concurrent.futures
 import MySQLdb
 import markdown
