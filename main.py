@@ -140,7 +140,7 @@ class DataTablesServer:
 def main():
     tornado.options.parse_command_line()
     http_server = tornado.httpserver.HTTPServer(Application())
-    http_server.listen(options.port)
+    http_server.listen(options.port,address='127.0.0.1')
     tornado.ioloop.IOLoop.current().start()
 
 
